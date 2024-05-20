@@ -47,7 +47,7 @@ python opcua_to_mysql.py
 
 ## Observação
 
-opcua_mysql_1tag.py - possui apenas uma tag sendo enviada para o banco de dados
+opcua_mysql_1tag.py - possui apenas uma tag sendo enviada para o banco de dados\
 opcua_mysql_2tags.py - possui duas tags sendo enviadas caso precise de mais basta adicionar
 
 ## Banco de dados
