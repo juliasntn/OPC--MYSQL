@@ -5,7 +5,7 @@ import random
 def insert_into_table(value): 
     try:
         connection = pymysql.connect(
-            host='172.28.208.1',
+            host='servidor',
             user='root',
             password='root',
             database='teste',
